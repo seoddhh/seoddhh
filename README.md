@@ -1,5 +1,5 @@
 ## Hi there 👋
-안녕하세요 서동휘입니다
+안녕하세요! 서동휘입니다
 <!--
 **seoddhh/seoddhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌱 I’m currently learning ...
-카카오테크 부트캠프 4기 AI실무개발 과정
+
+## I’m currently learning
+카카오테크 부트캠프 4기 AI실무개발 과정(26.05.12~ing)
 
 ## Skills
 #### I use it often.
@@ -29,13 +30,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-I've used it before.
+#### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 <br />
-<br />
-<br />
+
+## How to reach me
+
+[sdh0279@gmail.com](mailto:sdh0279@gmail.com)
+
