@@ -2,7 +2,7 @@
 
 
 ## I’m currently learning
-카카오테크 부트캠프 4기 AI실무개발 과정(26.05.12~ing)
+카카오테크 부트캠프 4기 AI실무개발 과정(26.05.12~11.17 수료)
 
 ## Skills
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</div>
+
 
 #### Frameworks
 <div>
